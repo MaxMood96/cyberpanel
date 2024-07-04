@@ -23,7 +23,7 @@ docutils==0.16
 enum34==1.1.10
 filelock==3.0.12
 funcsigs==1.0.2
-future==0.18.2
+future==0.18.3
 google-api-core==1.23.0
 google-api-python-client==1.12.5
 google-auth==1.23.0
