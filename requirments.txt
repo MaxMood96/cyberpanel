@@ -81,3 +81,4 @@ urllib3==1.26.5
 validators==0.18.1
 wcwidth==0.2.5
 websocket-client==0.57.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
