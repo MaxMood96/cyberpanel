@@ -76,7 +76,7 @@ sqlparse==0.4.2
 tldextract==3.0.2
 tornado==6.1
 uritemplate==3.0.1
-urllib3==1.26.5
+urllib3==1.26.19
 validators==0.18.1
 wcwidth==0.2.5
 websocket-client==0.57.0
