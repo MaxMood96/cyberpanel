@@ -38,3 +38,4 @@ python-jose==3.4.0
 websockets==15.0.1
 PyJWT
 python-dotenv==1.0.0
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
